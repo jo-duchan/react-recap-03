@@ -1,8 +1,8 @@
 import React from 'react';
 
-import Card from './Card';
-import Button from './Button';
-import classes from './ErrorModal.module.css';
+import Card from 'components/UI/Card';
+import Button from 'components/UI/Button';
+import classes from 'components/UI/ErrorModal.module.css';
 
 const ErrorModal = (props) => {
   return (
